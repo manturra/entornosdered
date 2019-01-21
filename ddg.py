@@ -7,3 +7,4 @@ def ddg(jugador):
 
 jugador = input("Introduce numero: ")
 print(ddg(jugador))
+print(hola)
